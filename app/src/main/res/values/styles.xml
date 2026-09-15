@@ -1,0 +1,9 @@
+<resources>
+    <style name="Theme.NavegaVoz" parent="android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:statusBarColor">#081522</item>
+        <item name="android:navigationBarColor">#081522</item>
+        <item name="android:colorAccent">#16D5E3</item>
+    </style>
+</resources>
